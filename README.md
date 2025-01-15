@@ -11,10 +11,10 @@ Implement a simple feedforward neural network from scratch in Python without usi
 - **Input (X)**: `[[0, 0], [0, 1], [1, 0], [1, 1]]`
 - **Output (y)**: `[[0], [0], [0], [1]]`
 
-This dataset represents the binary inputs and their corresponding output for the AND operation.
+This dataset represents the binary inputs and their corresponding output for the OR operation.
 
 ### Task:
-The task is to train a neural network to predict the output of the AND operation based on the provided input combinations. The problem is a binary classification task.
+The task is to train a neural network to predict the output of the OR operation based on the provided input combinations. The problem is a binary classification task.
 
 ---
 
@@ -77,7 +77,7 @@ After training, the model will output the predictions for the AND operation base
 
 ## Author
 
-- **Sahil Karne**
+- **Yash Gunjal**
 
 ---
 
